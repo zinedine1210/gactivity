@@ -108,6 +108,26 @@
       "id": "1676020355376168723525",
       "userID": "123",
       "log": "/images/default.png"
+    },
+    {
+      "name": "Ziddan Mantap",
+      "website": "https://darahku.id",
+      "type": "it",
+      "privacy": "public",
+      "description": "asasasasas",
+      "members": [
+        {
+          "email": "bonard.saragih@gnusa.id",
+          "status": "pending"
+        },
+        {
+          "email": "zidane.gnusa@gmail.com",
+          "status": "pending"
+        }
+      ],
+      "id": "1676092028328021527872",
+      "userID": "123",
+      "log": "/images/default.png"
     }
   ],
   "forum": [
