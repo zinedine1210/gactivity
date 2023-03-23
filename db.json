@@ -354,6 +354,16 @@
         }
       ],
       "date": "2023-02-28T13:03:51.080Z"
+    },
+    {
+      "name": null,
+      "privacy": "public",
+      "pin": false,
+      "members": [],
+      "id": "1679546074738574355736",
+      "projectID": "1677590624521760359869",
+      "pages": [],
+      "date": "2023-03-23T04:34:34.738Z"
     }
   ],
   "notes": [
@@ -416,6 +426,16 @@
       "id": "1676872033634052743656",
       "projectID": "12891829182",
       "date": "2023-02-20T05:47:13.634Z"
+    },
+    {
+      "name": null,
+      "privacy": "public",
+      "pin": false,
+      "members": [],
+      "content": null,
+      "id": "1678516770961688032934",
+      "projectID": "1677590624521760359869",
+      "date": "2023-03-11T06:39:30.961Z"
     }
   ],
   "user": [
@@ -487,12 +507,13 @@
   "tasks": [
     {
       "title": "Google Login",
-      "statusID": "1677590624545845234487",
-      "id": "1677590703150182113882",
-      "done": false,
+      "statusID": "1677590624544493362054",
+      "id": "1677661565589605205250",
+      "done": true,
       "label": [],
       "assign": [],
-      "date": "2023-02-28T13:25:03.150Z",
+      "date": "2023-03-02",
+      "targetDate": "2023-03-24",
       "description": "",
       "attachment": [],
       "urutan": 1
@@ -500,41 +521,108 @@
     {
       "title": "Apple Login",
       "statusID": "1677590624544493362054",
-      "id": "1677590709666155444349",
-      "done": false,
+      "id": "1677735172545988804272",
+      "done": true,
       "label": [],
       "assign": [],
-      "date": "2023-02-28T13:25:09.666Z",
+      "date": "2023-03-02T05:32:52.545Z",
+      "targetDate": "2023-03-02T05:32:52.545Z",
       "description": "",
-      "attachment": []
+      "attachment": [],
+      "urutan": 1
+    },
+    {
+      "title": "Zinedine Task",
+      "statusID": "1677590624545436275342",
+      "id": "1677748949714331725782",
+      "done": true,
+      "label": [],
+      "assign": [
+        {
+          "email": "zidane.gnusa@gmail.com",
+          "status": "pending"
+        },
+        {
+          "email": "bonard.saragih@gnusa.id",
+          "status": "pending"
+        }
+      ],
+      "date": "2023-03-02T09:22:29.714Z",
+      "targetDate": "2023-03-02T09:22:29.714Z",
+      "description": "",
+      "attachment": [],
+      "urutan": 1
     }
   ],
-  "activity": [],
+  "activity": [
+    {
+      "type": "comments",
+      "email": "zidane.gnusa@gmail.com",
+      "date": "2023-03-02T09:28:02.204Z",
+      "value": "<p>Hallo</p>",
+      "taskID": "1677748949714331725782",
+      "id": "1677749282204817752669"
+    }
+  ],
   "status": [
     {
       "date": "2023-02-28T13:23:44.544Z",
       "name": "In Progress",
       "id": "1677590624544493362054",
       "projectID": "1677590624521760359869",
-      "urutan": 1
+      "urutan": 4
     },
     {
       "date": "2023-02-28T13:23:44.545Z",
       "name": "To Do",
       "id": "1677590624545436275342",
-      "projectID": "1677590624521760359869"
+      "projectID": "1677590624521760359869",
+      "urutan": 3
     },
     {
       "date": "2023-02-28T13:23:44.545Z",
       "name": "Done",
       "id": "1677590624545845234487",
-      "projectID": "1677590624521760359869"
+      "projectID": "1677590624521760359869",
+      "urutan": 1
+    },
+    {
+      "date": "2023-03-01T10:26:25.351Z",
+      "name": "In Progress",
+      "id": "1677666385351964619210",
+      "projectID": "1677666385304558649663"
+    },
+    {
+      "date": "2023-03-01T10:26:25.352Z",
+      "name": "To Do",
+      "id": "1677666385352404392375",
+      "projectID": "1677666385304558649663"
+    },
+    {
+      "date": "2023-03-01T10:26:25.353Z",
+      "name": "Done",
+      "id": "1677666385353837622675",
+      "projectID": "1677666385304558649663"
+    },
+    {
+      "name": "QC",
+      "date": "2023-03-02T09:22:18.667Z",
+      "projectID": "1677590624521760359869",
+      "id": "1677748938667064401069",
+      "urutan": 4
+    },
+    {
+      "name": "Testing",
+      "date": "2023-03-09T07:02:04.980Z",
+      "projectID": "1677590624521760359869",
+      "id": "1678345324980171051611"
     }
   ],
   "projects": [
     {
       "name": "Project Gactivity",
       "privacy": "public",
+      "typeBoard": "board",
       "members": [
         {
           "email": "zidane.gnusa@gmail.com",
@@ -559,6 +647,963 @@
       ],
       "id": "1677590624521760359869",
       "workspaceID": "1677590598872488705265"
+    },
+    {
+      "name": "Virtues",
+      "privacy": "public",
+      "typeBoard": "board",
+      "members": [
+        {
+          "email": "bonard.saragih@gnusa.id",
+          "status": "pending"
+        },
+        {
+          "email": "denisramdan92@gmail.com",
+          "status": "pending"
+        }
+      ],
+      "id": "1677666385304558649663",
+      "workspaceID": "1677590598872488705265"
+    }
+  ],
+  "mom": [
+    {
+      "name": null,
+      "size": 1,
+      "id": "1678516541022120745977",
+      "projectID": "1677590624521760359869",
+      "privacy": "public",
+      "pin": false,
+      "participants": [
+        {
+          "email": null,
+          "jabatan": null,
+          "company": null
+        }
+      ],
+      "address": null,
+      "date": null,
+      "dateLocale": null,
+      "start": null,
+      "end": null,
+      "place": null,
+      "agenda": [""],
+      "create": "2023-03-11T06:35:41.022Z",
+      "conclusion": null,
+      "action": [
+        {
+          "value": null,
+          "check": false
+        }
+      ],
+      "header": [
+        {
+          "name": "Meeting Result",
+          "id": "1678516541022736888695",
+          "align": "start",
+          "type": "freeText"
+        },
+        {
+          "name": "Target Date",
+          "id": "1678516541022488185986",
+          "align": "start",
+          "type": "datetime"
+        },
+        {
+          "name": "PIC",
+          "id": "1678516541022295981233",
+          "align": "start",
+          "type": "mention"
+        },
+        {
+          "name": "Stated By",
+          "id": "1678516541022063365596",
+          "align": "start",
+          "type": "mention"
+        }
+      ]
+    }
+  ],
+  "momPoint": [
+    {
+      "momID": "1677734545450153605551",
+      "urutan": 7,
+      "id": "1678275222934887058876",
+      "content": [
+        {
+          "pointID": "1678275222934887058876",
+          "headerID": "112901830131212",
+          "value": null
+        },
+        {
+          "pointID": "1678275222934887058876",
+          "headerID": "12137195916391",
+          "value": []
+        },
+        {
+          "pointID": "1678275222934887058876",
+          "headerID": "1678338220491785149949",
+          "value": null
+        },
+        {
+          "pointID": "1678275222934887058876",
+          "headerID": "1678436165277518818428",
+          "value": null
+        }
+      ]
+    },
+    {
+      "momID": "1677734545450153605551",
+      "urutan": 5,
+      "id": "1678275223483400397382",
+      "content": [
+        {
+          "pointID": "1678275223483400397382",
+          "headerID": "112901830131212",
+          "value": null
+        },
+        {
+          "pointID": "1678275223483400397382",
+          "headerID": "12137195916391",
+          "value": []
+        },
+        {
+          "pointID": "1678275223483400397382",
+          "headerID": "1678338220491785149949",
+          "value": null
+        },
+        {
+          "pointID": "1678275223483400397382",
+          "headerID": "1678436165277518818428",
+          "value": null
+        }
+      ]
+    },
+    {
+      "momID": "1677734545450153605551",
+      "urutan": 1,
+      "id": "1678275223721775913627",
+      "content": [
+        {
+          "pointID": "1678275223721775913627",
+          "headerID": "112901830131212",
+          "value": "<p>Keren bang</p>"
+        },
+        {
+          "pointID": "1678275223721775913627",
+          "headerID": "12137195916391",
+          "value": [
+            {
+              "email": "ziddanfhdlvy12@gmail.com",
+              "jabatan": null,
+              "company": null
+            }
+          ]
+        },
+        {
+          "pointID": "1678275223721775913627",
+          "headerID": "1678338220491785149949",
+          "value": "2023-03-20"
+        },
+        {
+          "pointID": "1678275223721775913627",
+          "headerID": "1678436165277518818428",
+          "value": null
+        }
+      ]
+    },
+    {
+      "momID": "1677734545450153605551",
+      "urutan": 4,
+      "id": "1678275223877217795561",
+      "content": [
+        {
+          "pointID": "1678275223877217795561",
+          "headerID": "112901830131212",
+          "value": "<p></p>"
+        },
+        {
+          "pointID": "1678275223877217795561",
+          "headerID": "12137195916391",
+          "value": [
+            {
+              "email": "Zinedine Ziddan",
+              "jabatan": null,
+              "company": null
+            }
+          ]
+        },
+        {
+          "pointID": "1678275223877217795561",
+          "headerID": "1678338220491785149949",
+          "value": "2023-03-09"
+        },
+        {
+          "pointID": "1678275223877217795561",
+          "headerID": "1678436165277518818428",
+          "value": null
+        }
+      ]
+    },
+    {
+      "momID": "1677734545450153605551",
+      "urutan": 6,
+      "id": "1678278524509796310019",
+      "content": [
+        {
+          "pointID": "1678278524509796310019",
+          "headerID": "112901830131212",
+          "value": "<p>mantap ini lagi</p>"
+        },
+        {
+          "pointID": "1678278524509796310019",
+          "headerID": "12137195916391",
+          "value": [
+            {
+              "email": "alsaljlasa",
+              "jabatan": null,
+              "company": null
+            }
+          ]
+        },
+        {
+          "pointID": "1678278524509796310019",
+          "headerID": "1678338220491785149949",
+          "value": null
+        },
+        {
+          "pointID": "1678278524509796310019",
+          "headerID": "1678436165277518818428",
+          "value": null
+        }
+      ]
+    },
+    {
+      "momID": "1678345098431860267484",
+      "urutan": 1,
+      "id": "1678345125692215973435",
+      "content": [
+        {
+          "pointID": "1678345125692215973435",
+          "headerID": "1678345098431647630960",
+          "value": "<p>Masih kurang dari yang akan datang</p><p>harus ada tambahan sistem</p>"
+        },
+        {
+          "pointID": "1678345125692215973435",
+          "headerID": "1678345098431837843499",
+          "value": "2023-03-14"
+        },
+        {
+          "pointID": "1678345125692215973435",
+          "headerID": "1678345098431286316660",
+          "value": [
+            {
+              "email": "@denis",
+              "jabatan": null,
+              "company": null
+            }
+          ]
+        },
+        {
+          "pointID": "1678345125692215973435",
+          "headerID": "1678425458494549582199",
+          "value": null
+        }
+      ]
+    },
+    {
+      "momID": "1677734545450153605551",
+      "urutan": 2,
+      "id": "1678436138777509102224",
+      "content": [
+        {
+          "pointID": "1678436138777509102224",
+          "headerID": "112901830131212",
+          "value": "<p>dasddaldjald ad,ajdla dadkadadadadadadadada</p>"
+        },
+        {
+          "pointID": "1678436138777509102224",
+          "headerID": "12137195916391",
+          "value": [
+            {
+              "email": "ziddanfhdlvy12@gmail.com",
+              "jabatan": null,
+              "company": null
+            },
+            {
+              "email": "ini mas den",
+              "jabatan": null,
+              "company": null
+            }
+          ]
+        },
+        {
+          "pointID": "1678436138777509102224",
+          "headerID": "1678338220491785149949",
+          "value": null
+        },
+        {
+          "pointID": "1678436138777509102224",
+          "headerID": "1678436165277518818428",
+          "value": null
+        },
+        {
+          "pointID": "1678436138777509102224",
+          "headerID": "1678436928345110752142",
+          "value": null
+        }
+      ]
+    },
+    {
+      "momID": "1677734545450153605551",
+      "urutan": 3,
+      "id": "1678436750377045054203",
+      "content": [
+        {
+          "pointID": "1678436750377045054203",
+          "headerID": "112901830131212",
+          "value": null
+        },
+        {
+          "pointID": "1678436750377045054203",
+          "headerID": "12137195916391",
+          "value": []
+        },
+        {
+          "pointID": "1678436750377045054203",
+          "headerID": "1678338220491785149949",
+          "value": null
+        },
+        {
+          "pointID": "1678436750377045054203",
+          "headerID": "1678436165277518818428",
+          "value": null
+        },
+        {
+          "pointID": "1678436750377045054203",
+          "headerID": "1678436928345110752142",
+          "value": null
+        }
+      ]
+    },
+    {
+      "momID": "1678438422976593273372",
+      "urutan": 1,
+      "id": "1678438704517911740573",
+      "content": [
+        {
+          "pointID": "1678438704517911740573",
+          "headerID": "1678438422976068066797",
+          "value": null
+        },
+        {
+          "pointID": "1678438704517911740573",
+          "headerID": "1678438422976868668120",
+          "value": null
+        },
+        {
+          "pointID": "1678438704517911740573",
+          "headerID": "1678438422976964778211",
+          "value": []
+        }
+      ]
+    },
+    {
+      "momID": "1678438422976593273372",
+      "urutan": 2,
+      "id": "1678438710170297619214",
+      "content": [
+        {
+          "pointID": "1678438710170297619214",
+          "headerID": "1678438422976068066797",
+          "value": null
+        },
+        {
+          "pointID": "1678438710170297619214",
+          "headerID": "1678438422976868668120",
+          "value": null
+        },
+        {
+          "pointID": "1678438710170297619214",
+          "headerID": "1678438422976964778211",
+          "value": []
+        }
+      ]
+    },
+    {
+      "momID": "1678438771035249308961",
+      "urutan": 5,
+      "id": "1678438781186486180495",
+      "content": [
+        {
+          "pointID": "1678438781186486180495",
+          "headerID": "1678438771035573480279",
+          "value": null
+        },
+        {
+          "pointID": "1678438781186486180495",
+          "headerID": "1678438771035316098927",
+          "value": null
+        },
+        {
+          "pointID": "1678438781186486180495",
+          "headerID": "1678438771035136268720",
+          "value": []
+        },
+        {
+          "pointID": "1678438781186486180495",
+          "headerID": "1678438771035168353956",
+          "value": []
+        }
+      ]
+    },
+    {
+      "momID": "1678438771035249308961",
+      "urutan": 4,
+      "id": "1678438896559308848368",
+      "content": [
+        {
+          "pointID": "1678438896559308848368",
+          "headerID": "1678438771035573480279",
+          "value": null
+        },
+        {
+          "pointID": "1678438896559308848368",
+          "headerID": "1678438771035316098927",
+          "value": null
+        },
+        {
+          "pointID": "1678438896559308848368",
+          "headerID": "1678438771035136268720",
+          "value": []
+        },
+        {
+          "pointID": "1678438896559308848368",
+          "headerID": "1678438771035168353956",
+          "value": []
+        }
+      ]
+    },
+    {
+      "momID": "1678438771035249308961",
+      "urutan": 3,
+      "id": "1678438897328340147379",
+      "content": [
+        {
+          "pointID": "1678438897328340147379",
+          "headerID": "1678438771035573480279",
+          "value": null
+        },
+        {
+          "pointID": "1678438897328340147379",
+          "headerID": "1678438771035316098927",
+          "value": null
+        },
+        {
+          "pointID": "1678438897328340147379",
+          "headerID": "1678438771035136268720",
+          "value": []
+        },
+        {
+          "pointID": "1678438897328340147379",
+          "headerID": "1678438771035168353956",
+          "value": []
+        }
+      ]
+    },
+    {
+      "momID": "1678438771035249308961",
+      "urutan": 2,
+      "id": "1678438897551380088028",
+      "content": [
+        {
+          "pointID": "1678438897551380088028",
+          "headerID": "1678438771035573480279",
+          "value": null
+        },
+        {
+          "pointID": "1678438897551380088028",
+          "headerID": "1678438771035316098927",
+          "value": null
+        },
+        {
+          "pointID": "1678438897551380088028",
+          "headerID": "1678438771035136268720",
+          "value": []
+        },
+        {
+          "pointID": "1678438897551380088028",
+          "headerID": "1678438771035168353956",
+          "value": []
+        }
+      ]
+    },
+    {
+      "momID": "1678438771035249308961",
+      "urutan": 1,
+      "id": "1678438897679478742158",
+      "content": [
+        {
+          "pointID": "1678438897679478742158",
+          "headerID": "1678438771035573480279",
+          "value": null
+        },
+        {
+          "pointID": "1678438897679478742158",
+          "headerID": "1678438771035316098927",
+          "value": null
+        },
+        {
+          "pointID": "1678438897679478742158",
+          "headerID": "1678438771035136268720",
+          "value": [
+            {
+              "email": "Mantap",
+              "jabatan": null,
+              "company": null
+            },
+            {
+              "email": "Zinedine",
+              "jabatan": null,
+              "company": null
+            }
+          ]
+        },
+        {
+          "pointID": "1678438897679478742158",
+          "headerID": "1678438771035168353956",
+          "value": []
+        }
+      ]
+    }
+  ],
+  "errorKnowledge": [
+    {
+      "id": "1678515277199157176345",
+      "name": null,
+      "privacy": "public",
+      "pin": true,
+      "projectID": "1677590624521760359869",
+      "date": "2023-03-11T06:14:37.199Z"
+    }
+  ],
+  "errorLogs": [
+    {
+      "description": "Ini description",
+      "errorStatus": "incident",
+      "id": "171380170131039016",
+      "errorKnowledgeID": "13913801710820130",
+      "caused": "Cause the problem is",
+      "solution": "Ini solusi",
+      "solutionDate": {
+        "date": "2023-03-01",
+        "dateLocale": "Rabu, 1 Maret 2023"
+      },
+      "category": "backend",
+      "location": "kp gempol cakung timur",
+      "problemDate": {
+        "date": null,
+        "dateLocale": null
+      },
+      "assignedTo": [
+        {
+          "email": "zidane.gnusa@gmail.com",
+          "status": "pending"
+        },
+        {
+          "email": "bonard.saragih@gnusa.id",
+          "status": "pending"
+        }
+      ],
+      "attachment": [],
+      "create": "2023-03-02T05:22:25.450Z",
+      "severity": "high",
+      "status": "progress",
+      "urutan": 1
+    },
+    {
+      "description": null,
+      "errorStatus": "incident",
+      "id": "171380170131039011",
+      "errorKnowledgeID": "13913801710820130",
+      "caused": null,
+      "solution": null,
+      "solutionDate": {
+        "date": null,
+        "dateLocale": null
+      },
+      "category": "frontend",
+      "location": null,
+      "problemDate": {
+        "date": null,
+        "dateLocale": null
+      },
+      "assignedTo": [],
+      "attachment": [],
+      "create": "2023-03-02T05:22:25.450Z",
+      "severity": "high",
+      "urutan": 2,
+      "status": "progress"
+    },
+    {
+      "description": null,
+      "errorStatus": "problem",
+      "id": "1678513395448227570339",
+      "errorKnowledgeID": "13913801710820130",
+      "caused": null,
+      "solution": null,
+      "solutionDate": {
+        "date": null,
+        "dateLocale": null
+      },
+      "category": "backend",
+      "location": null,
+      "problemDate": {
+        "date": null,
+        "dateLocale": null
+      },
+      "assignedTo": [],
+      "attachment": [],
+      "create": "2023-03-11T05:43:15.448Z",
+      "severity": "low",
+      "status": "open",
+      "urutan": 3
+    },
+    {
+      "description": null,
+      "errorStatus": "problem",
+      "id": "1678513895957348203919",
+      "errorKnowledgeID": "13913801710820130",
+      "caused": null,
+      "solution": null,
+      "solutionDate": {
+        "date": null,
+        "dateLocale": null
+      },
+      "category": "backend",
+      "location": null,
+      "problemDate": {
+        "date": null,
+        "dateLocale": null
+      },
+      "assignedTo": [],
+      "attachment": [],
+      "create": "2023-03-11T05:51:35.957Z",
+      "severity": "low",
+      "status": "open",
+      "urutan": 4
+    },
+    {
+      "description": "",
+      "errorStatus": "incident",
+      "id": "1678515282547950523569",
+      "errorKnowledgeID": "1678515277199157176345",
+      "caused": "",
+      "solution": null,
+      "solutionDate": {
+        "date": null,
+        "dateLocale": null
+      },
+      "category": "Dev Ops",
+      "location": "",
+      "problemDate": {
+        "date": "2023-03-16",
+        "dateLocale": "Kamis, 16 Maret 2023"
+      },
+      "assignedTo": [],
+      "attachment": [],
+      "create": "2023-03-11T06:14:42.547Z",
+      "severity": "medium",
+      "status": "resolved",
+      "urutan": 1
+    },
+    {
+      "description": null,
+      "errorStatus": "problem",
+      "id": "1678515667037651068898",
+      "errorKnowledgeID": "1678515277199157176345",
+      "caused": null,
+      "solution": null,
+      "solutionDate": {
+        "date": null,
+        "dateLocale": null
+      },
+      "category": "backend",
+      "location": null,
+      "problemDate": {
+        "date": null,
+        "dateLocale": null
+      },
+      "assignedTo": [],
+      "attachment": [],
+      "create": "2023-03-11T06:21:07.037Z",
+      "severity": "low",
+      "status": "open",
+      "urutan": 2
+    },
+    {
+      "description": null,
+      "errorStatus": "problem",
+      "id": "1678515667874211501391",
+      "errorKnowledgeID": "1678515277199157176345",
+      "caused": null,
+      "solution": null,
+      "solutionDate": {
+        "date": null,
+        "dateLocale": null
+      },
+      "category": "backend",
+      "location": null,
+      "problemDate": {
+        "date": null,
+        "dateLocale": null
+      },
+      "assignedTo": [],
+      "attachment": [],
+      "create": "2023-03-11T06:21:07.874Z",
+      "severity": "low",
+      "status": "open",
+      "urutan": 3
+    },
+    {
+      "description": null,
+      "errorStatus": "problem",
+      "id": "1678515668244891777688",
+      "errorKnowledgeID": "1678515277199157176345",
+      "caused": null,
+      "solution": null,
+      "solutionDate": {
+        "date": null,
+        "dateLocale": null
+      },
+      "category": "backend",
+      "location": null,
+      "problemDate": {
+        "date": null,
+        "dateLocale": null
+      },
+      "assignedTo": [],
+      "attachment": [],
+      "create": "2023-03-11T06:21:08.244Z",
+      "severity": "low",
+      "status": "open",
+      "urutan": 4
+    },
+    {
+      "description": null,
+      "errorStatus": "problem",
+      "id": "1678515668380859708911",
+      "errorKnowledgeID": "1678515277199157176345",
+      "caused": null,
+      "solution": null,
+      "solutionDate": {
+        "date": null,
+        "dateLocale": null
+      },
+      "category": "backend",
+      "location": null,
+      "problemDate": {
+        "date": null,
+        "dateLocale": null
+      },
+      "assignedTo": [],
+      "attachment": [],
+      "create": "2023-03-11T06:21:08.380Z",
+      "severity": "low",
+      "status": "open",
+      "urutan": 5
+    },
+    {
+      "description": null,
+      "errorStatus": "problem",
+      "id": "1678515668524683487127",
+      "errorKnowledgeID": "1678515277199157176345",
+      "caused": null,
+      "solution": null,
+      "solutionDate": {
+        "date": null,
+        "dateLocale": null
+      },
+      "category": "backend",
+      "location": null,
+      "problemDate": {
+        "date": null,
+        "dateLocale": null
+      },
+      "assignedTo": [],
+      "attachment": [],
+      "create": "2023-03-11T06:21:08.524Z",
+      "severity": "low",
+      "status": "open",
+      "urutan": 6
+    },
+    {
+      "description": null,
+      "errorStatus": "problem",
+      "id": "1678515668648636190511",
+      "errorKnowledgeID": "1678515277199157176345",
+      "caused": null,
+      "solution": null,
+      "solutionDate": {
+        "date": null,
+        "dateLocale": null
+      },
+      "category": "backend",
+      "location": null,
+      "problemDate": {
+        "date": null,
+        "dateLocale": null
+      },
+      "assignedTo": [],
+      "attachment": [],
+      "create": "2023-03-11T06:21:08.648Z",
+      "severity": "low",
+      "status": "open",
+      "urutan": 7
+    },
+    {
+      "description": null,
+      "errorStatus": "problem",
+      "id": "1678515668784745630943",
+      "errorKnowledgeID": "1678515277199157176345",
+      "caused": null,
+      "solution": null,
+      "solutionDate": {
+        "date": null,
+        "dateLocale": null
+      },
+      "category": "backend",
+      "location": null,
+      "problemDate": {
+        "date": null,
+        "dateLocale": null
+      },
+      "assignedTo": [],
+      "attachment": [],
+      "create": "2023-03-11T06:21:08.784Z",
+      "severity": "low",
+      "status": "open",
+      "urutan": 8
+    },
+    {
+      "description": null,
+      "errorStatus": "problem",
+      "id": "1678515668948348483713",
+      "errorKnowledgeID": "1678515277199157176345",
+      "caused": null,
+      "solution": null,
+      "solutionDate": {
+        "date": null,
+        "dateLocale": null
+      },
+      "category": "backend",
+      "location": null,
+      "problemDate": {
+        "date": null,
+        "dateLocale": null
+      },
+      "assignedTo": [],
+      "attachment": [],
+      "create": "2023-03-11T06:21:08.948Z",
+      "severity": "low",
+      "status": "open",
+      "urutan": 9
+    },
+    {
+      "description": null,
+      "errorStatus": "problem",
+      "id": "1678515669092828999543",
+      "errorKnowledgeID": "1678515277199157176345",
+      "caused": null,
+      "solution": null,
+      "solutionDate": {
+        "date": null,
+        "dateLocale": null
+      },
+      "category": "backend",
+      "location": null,
+      "problemDate": {
+        "date": null,
+        "dateLocale": null
+      },
+      "assignedTo": [],
+      "attachment": [],
+      "create": "2023-03-11T06:21:09.092Z",
+      "severity": "low",
+      "status": "open",
+      "urutan": 1
+    },
+    {
+      "description": null,
+      "errorStatus": "problem",
+      "id": "1678515669216293619009",
+      "errorKnowledgeID": "1678515277199157176345",
+      "caused": null,
+      "solution": null,
+      "solutionDate": {
+        "date": null,
+        "dateLocale": null
+      },
+      "category": "backend",
+      "location": null,
+      "problemDate": {
+        "date": null,
+        "dateLocale": null
+      },
+      "assignedTo": [],
+      "attachment": [],
+      "create": "2023-03-11T06:21:09.216Z",
+      "severity": "low",
+      "status": "open",
+      "urutan": 1
+    },
+    {
+      "description": null,
+      "errorStatus": "problem",
+      "id": "1678515669400747448817",
+      "errorKnowledgeID": "1678515277199157176345",
+      "caused": null,
+      "solution": null,
+      "solutionDate": {
+        "date": null,
+        "dateLocale": null
+      },
+      "category": "backend",
+      "location": null,
+      "problemDate": {
+        "date": null,
+        "dateLocale": null
+      },
+      "assignedTo": [],
+      "attachment": [],
+      "create": "2023-03-11T06:21:09.400Z",
+      "severity": "low",
+      "status": "open",
+      "urutan": 1
+    },
+    {
+      "description": null,
+      "errorStatus": "problem",
+      "id": "1678515669541308963505",
+      "errorKnowledgeID": "1678515277199157176345",
+      "caused": null,
+      "solution": null,
+      "solutionDate": {
+        "date": null,
+        "dateLocale": null
+      },
+      "category": "backend",
+      "location": null,
+      "problemDate": {
+        "date": null,
+        "dateLocale": null
+      },
+      "assignedTo": [],
+      "attachment": [],
+      "create": "2023-03-11T06:21:09.541Z",
+      "severity": "low",
+      "status": "open",
+      "urutan": 1
     }
   ]
 }
